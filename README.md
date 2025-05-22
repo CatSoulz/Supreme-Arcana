@@ -1,15 +1,15 @@
 # Supreme-Arcana
 
-![SupremeArcana1](https://github.com/user-attachments/assets/9903e92f-bcd0-4a3c-83d7-ffff5a54d7a0)
+![SupremeArcana1](https://github.com/user-attachments/assets/479a6ac8-fbc4-435f-bc34-02666ab33918)
 
 Decreases the rank of up to 2 selected cards by 1
 
-![SupremeArcana2](https://github.com/user-attachments/assets/503cbc97-af07-4021-9039-1c715b99de60)
+![SupremeArcana2](https://github.com/user-attachments/assets/2c2c8e60-305e-44b0-9bd2-9b51862f6e6f)
 
 Swaps the suit and rank of two cards
 (Notable does not swap editions, seals, or modifier)
 
-![SupremeArcana3](https://github.com/user-attachments/assets/8c240681-8bb1-4510-934d-c65606cab89d)
+![SupremeArcana3](https://github.com/user-attachments/assets/70477e03-d2d5-4053-85ec-8e818b183318)
 
 Makes all held consumables negative
 
