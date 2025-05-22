@@ -1,4 +1,5 @@
 # Supreme-Arcana
+Download -> https://github.com/CatSoulz/Supreme-Arcana/releases/download/1.0.0/v1.0.0.zip
 
 ![SupremeArcana1](https://github.com/user-attachments/assets/479a6ac8-fbc4-435f-bc34-02666ab33918)
 
