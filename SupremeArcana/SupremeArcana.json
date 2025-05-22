@@ -1,0 +1,13 @@
+{
+    "id": "SupremeArcana",
+    "name": "Supreme Arcana",
+    "author": ["CatSoulz"],
+    "description": "Adds two new Tarot cards.",
+    "prefix": "spar",
+    "main_file": "SupremeArcana.lua",
+    "badge_colour": "b8a381",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
